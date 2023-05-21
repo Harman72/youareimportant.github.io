@@ -1,0 +1,152 @@
+.Top1{
+    height: 450px;
+    width: 100%;
+    background-color:#FDE2F3;
+    font-size: 50px;
+    
+}
+.Tphoto{
+    margin-left: 90%;
+    margin-top: 0px;
+}
+.Firstheading{
+    color:#DB005B;
+    text-align: center;
+    margin-top: 0px;
+}
+hr{
+    border-top: 1px solid black;
+
+}
+
+
+.column{
+    float: left;
+    width: 30.33%;
+    padding: 5px;
+    margin-left: 50px;
+   
+}
+.TOP2{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.TOP2::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+h4{
+    font-size: 30px;
+    color:#DB005B;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.Bar {
+    overflow: hidden;
+    background-color: #B4E4FF;
+    font-family: Arial;
+    
+    
+  }
+  
+ 
+  .Bar a {
+    float: left;
+    font-size: 16px;
+    color: #1D267D;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    
+  }
+  
+  .Bubble{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    color:#CB1C8D;
+    font-style: italic;
+    
+  }
+
+  h3{
+    color:#F806CC;
+    text-align: center;
+    font-size: 40px;
+
+  }
+  .container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+   }
+
+.text{
+    font-size: 50px;
+    border: solid #DB005B 10px;
+    color:#FFB9B9;
+   margin-left: 100px;
+    
+}
+.image{
+    float:left;
+    margin-left: 100px;
+}
+
+.container1 { 
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+   }
+   .image1{
+    float: right;
+    margin-right: 100px;
+    
+   
+
+}
+.text1{
+    
+    font-size: 50px;
+    color:#FFACC7;
+    text-align: left;
+    margin-left: 1000px;
+    padding-top: 50px;
+    
+    
+}
+.container2 {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+   }
+
+.text2{
+    font-size: 50px;
+    border: solid #DB005B 10px;
+    color:#FFB9B9;
+   margin-left: 100px;
+    
+}
+.image2{
+    float:left;
+    margin-left: 100px;
+}
+
+
+body{
+    background-color: #FFE6E6;
+}
+
+.quotes{
+    
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+}
